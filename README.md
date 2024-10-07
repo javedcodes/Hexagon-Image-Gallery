@@ -1,6 +1,6 @@
 # Hexagon Image Gallery in HTML & CSS
 
-Looking to create an impressive and unique **[Hexagon Image Gallery](https://jvcodes.com/hexagon-image-gallery/** for your website? This guide provides you with free source code to add a beautiful hexagon-shaped image gallery to your site, whether you're using **WordPress** or a custom **HTML** platform.
+Looking to create an impressive and unique **<a href="https://jvcodes.com/hexagon-image-gallery/" >Hexagon Image Gallery</a>** for your website? This guide provides you with free source code to add a beautiful hexagon-shaped image gallery to your site, whether you're using **WordPress** or a custom **HTML** platform.
 
 ## Features
 
@@ -20,7 +20,7 @@ To build the **Hexagon Image Gallery**, we use:
 
 ## How to Use
 
-1. **Download the Source Code**: You can [download the source code here](https://jvcodes.com/hexagon-image-gallery/ and include it in your project.
+1. **Download the Source Code**: You can <a href="https://jvcodes.com/hexagon-image-gallery/" >Hexagon Image Gallery</a> and include it in your project.
 2. **Add Your Images**: Replace the placeholder images in the HTML file with your own.
 3. **Customize the Design**: Modify the CSS file to change the colors, image sizes, and layout as per your requirements.
 4. **Integrate with CMS**: For WordPress or other CMS users, simply paste the HTML and CSS into your page or post as needed.
